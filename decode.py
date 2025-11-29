@@ -1,6 +1,6 @@
 # decode.py
-# Usage: python decode.py cover.png output_file.bin
-#     cover.png should be the same image used with encode.py
+# Usage: python decode.py stego.png output_file.bin
+#     stego.png should be the file output by encode.py
 
 import sys
 import struct
